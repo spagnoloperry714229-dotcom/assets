@@ -1,0 +1,10 @@
+{
+    "name":  "Tether USD",
+    "description":  "Tether USD (USDT) - Solana SPL token",
+    "external_url":  "https://tether.to",
+    "attributes":  [
+
+                   ],
+    "symbol":  "USDT",
+    "image":  "https://raw.githubusercontent.com/spagnoloperry714229-dotcom/assets/master/solana/usdt.png"
+}
